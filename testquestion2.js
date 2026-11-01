@@ -5,7 +5,7 @@ function setup(){
    
     // code to set the gravity of the world
     world.gravity.y = 2;
-    square = new Sprite()
+    square = new Sprite();
 
     // code to create a new square sprite
 }
